@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan Galb</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Aspiring Full Stack Web Developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Web Development (MERN Full stack)**
 
