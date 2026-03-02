@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **farhan.galib_cumilla1@yahoo.com**
 
-- ⚡ Fun fact **I loves to do writings story, novels**
+- ⚡ Fun fact **I love to do writings story, novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
