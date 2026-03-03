@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development (MERN Full stack)<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me farhan.galib_cumilla1@yahoo.com<br><br>⚡ Fun fact I love to do writings story, novels
+🌱 I’m currently learning <b>Web Development (MERN Full stack)</b><br><br>💬 Ask me about <b>Web Development</b><br><br>📫 How to reach me <b>farhan.galib_cumilla1@yahoo.com</b><br><br>⚡ Fun fact <b>I love to do writings story, novels</b>
 
 
 ## 🌐 Socials:
