@@ -1,7 +1,9 @@
 <img alt="image" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
 
 <h1 align="center">Hi 👋, I'm Farhan Galb</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00CFC8&width=435&lines=On+a+journey+to+become+a+skilled+web+developer;Aiming+to+develop+expertise+in+React.js.;Future+Goal%3A+Become+a+Full-Stack+MERN+Developer" alt="Typing SVG" /></a>
+</p>
 <img align="right" width="400" height="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
