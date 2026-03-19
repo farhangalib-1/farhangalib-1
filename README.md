@@ -44,3 +44,7 @@
 
 
 </div
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhangalib-1&show_icons=true&locale=en&layout=compact" alt="farhangalib-1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhangalib-1&show_icons=true&locale=en" alt="farhangalib-1" /></p>
