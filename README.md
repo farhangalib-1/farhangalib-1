@@ -45,8 +45,12 @@
 | 📝 To-Do List | Organize and track your daily tasks easily | HTML, Tailwind, JavaScript | [Live](https://farhangalib-1.github.io/To-Do-List/) | [Code](https://github.com/farhangalib-1/To-Do-List) |
 
 
-</div
-
+</div>
+<div>
+  <h1>🐍 Github Snake Contribution </h1>
+ <img src="https://github.com/farhangalib-1/farhangalib-1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhangalib-1&show_icons=true&locale=en&layout=compact" alt="farhangalib-1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhangalib-1&show_icons=true&locale=en" alt="farhangalib-1" /></p>
+
