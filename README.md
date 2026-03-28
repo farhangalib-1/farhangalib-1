@@ -41,9 +41,11 @@
 
 | Project | Description | Tech Stack | Live | Code |
 |---------|-------------|------------|------|------|
+| 🛒 Shop Bangla | Bangla Online Grocery Shopping App with Product Search, Add to Cart, and Order System | HTML, Tailwind CSS, DaisyUI, JavaScript, JSON | [Live](https://shop-bangla.netlify.app/) | [Code](https://github.com/farhangalib-1/Shop-Bangla-) |
 | 📘 English Janala | API ভিত্তিক Interactive Vocabulary Learning App (Search, Voice) | HTML, Tailwind, DaisyUI, JavaScript, REST API | [Live](https://farhangalib-1.github.io/English-Janala/) | [Code](https://github.com/farhangalib-1/English-Janala) |
 | 💸 Payoo Money Transfer | Modern Banking UI with Transaction Layout | HTML, Tailwind, DaisyUI, JavaScript | [Live](https://payoo-mobile-banking-app.vercel.app/index.html) | [Code](https://github.com/farhangalib-1/payoo-mobile-banking-app) |
 | 📝 To-Do List | Organize and track your daily tasks easily | HTML, Tailwind, JavaScript | [Live](https://farhangalib-1.github.io/To-Do-List/) | [Code](https://github.com/farhangalib-1/To-Do-List) |
+
 
 
 </div>
