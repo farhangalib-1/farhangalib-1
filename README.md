@@ -1,4 +1,5 @@
-<img alt="image" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
+<!-- <img alt="image" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" /> -->
+<img width="1774" height="887" alt="ChatGPT Image May 29, 2026, 11_35_48 PM" src="https://github.com/user-attachments/assets/f5ada929-b81b-4038-8898-af0de702792f" />
 
 <h1 align="center">Hi 👋, I'm Farhan Galb</h1>
 <p align="center">
